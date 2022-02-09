@@ -1,0 +1,1375 @@
+ [
+    {
+      "CITYNUMBER": "1",
+      "city": "Балашиха",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "2",
+      "city": "Химки",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "3",
+      "city": "Подольск",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "4",
+      "city": "Королёв",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "5",
+      "city": "Люберцы",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "6",
+      "city": "Мытищи",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "7",
+      "city": "Электросталь",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "8",
+      "city": "Железнодорожный",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "9",
+      "city": "Коломна",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "10",
+      "city": "Одинцово",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "11",
+      "city": "Красногорск",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "12",
+      "city": "Серпухов",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "13",
+      "city": "Орехово-Зуево",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "14",
+      "city": "Щёлково",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "15",
+      "city": "Домодедово",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "16",
+      "city": "Жуковский",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "17",
+      "city": "Сергиев Посад",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "18",
+      "city": "Пушкино",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "19",
+      "city": "Раменское",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "20",
+      "city": "Ногинск",
+      "REGION": "Московская область",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "21",
+      "city": "Нижний Новгород",
+      "REGION": "Нижегородская область",
+      "KCOPERATOR": "7-831-250-50-00",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Ситикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "22",
+      "city": "Саров (Нижегородская область)",
+      "REGION": "Нижегородская область",
+      "KCOPERATOR": "7-831-250-50-00",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Ситикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "23",
+      "city": "Ростов-на-Дону",
+      "REGION": "Ростовская область",
+      "KCOPERATOR": "7-863-285-09-00",
+      "SITEOPERATOR": "https://arps.pro/",
+      "OPERATOR": "ООО \"Агентство развития платежных систем\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "24",
+      "city": "Омск",
+      "REGION": "Омская область",
+      "KCOPERATOR": "7-381-221-13-48",
+      "SITEOPERATOR": "http://etk55.ru/",
+      "OPERATOR": "МП г. Омска Пассажирсервис",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "25",
+      "city": "Хабаровск",
+      "REGION": "Хабаровский край",
+      "KCOPERATOR": "8 (4212) 45 00 56",
+      "SITEOPERATOR": "https://nic27.ru/",
+      "OPERATOR": "МБУ г.Хабаровска \"Хабаровский межотраслевой навигационно-информационных центр\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "26",
+      "city": "Ижевск (автобусы)",
+      "REGION": "Удмуртская Республика",
+      "KCOPERATOR": "8-3412-45-21-25",
+      "SITEOPERATOR": "http://ипопат.рф/",
+      "OPERATOR": "НАВИГАЦИОННО - ИНФОРМАЦИОННЫЙ ЦЕНТР» ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "26",
+      "city": "Ижевск (электротранспорт)",
+      "REGION": "Удмуртская Республика",
+      "KCOPERATOR": "8-3412-77-62-29",
+      "SITEOPERATOR": "https://www.strizh18.ru/",
+      "OPERATOR": "ООО \"ТИС\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "27",
+      "city": "Краснодар",
+      "REGION": "Краснодарский край",
+      "KCOPERATOR": "8(861)274-07-47",
+      "SITEOPERATOR": "https://etkrasnodar.ru/",
+      "OPERATOR": "ООО \"Электронный билет Кубани\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "28",
+      "city": "Орел",
+      "REGION": "Орловская область",
+      "KCOPERATOR": "8-800-450-10-27",
+      "SITEOPERATOR": "http://ric-orel.ru/",
+      "OPERATOR": "АКЦИОНЕРНОЕ ОБЩЕСТВО «РЕГИОНАЛЬНЫЙ ИНФОРМАЦИОННЫЙ ЦЕНТР»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "29",
+      "city": "Чебоксары",
+      "REGION": "Чувашская Республика",
+      "KCOPERATOR": "(8352) 36-33-30",
+      "SITEOPERATOR": "https://etk21.ru/",
+      "OPERATOR": "ООО \"Единая транспортная карта\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "30",
+      "city": "Новочебоксарск",
+      "REGION": "Чувашская Республика",
+      "KCOPERATOR": "(8352) 36-33-30",
+      "SITEOPERATOR": "https://etk21.ru/",
+      "OPERATOR": "ООО \"Единая транспортная карта\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "31",
+      "city": "Киров",
+      "REGION": "Кировская область",
+      "KCOPERATOR": "8-8332-485-999",
+      "SITEOPERATOR": "https://ekarta43.ru/",
+      "OPERATOR": "ООО \"Электронный проездной\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "31",
+      "city": "Киров",
+      "REGION": "Кировская область",
+      "KCOPERATOR": "8-800-775-63-06",
+      "SITEOPERATOR": "http://www.erkc43.ru/",
+      "OPERATOR": "ООО \"ЕРКЦ \"Город\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "32",
+      "city": "Тольятти",
+      "REGION": "Самарская область",
+      "KCOPERATOR": "8- 800-700-74-99",
+      "SITEOPERATOR": "https://s-otk.ru/",
+      "OPERATOR": "ООО Объединенная транспортная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "33",
+      "city": "Самара",
+      "REGION": "Самарская область",
+      "KCOPERATOR": "8- 800-700-74-99",
+      "SITEOPERATOR": "https://s-otk.ru/",
+      "OPERATOR": "ООО Объединенная транспортная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "34",
+      "city": "Казань",
+      "REGION": "Республика Татарстан",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/#main__slider",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "34",
+      "city": "Казань (Метро)",
+      "REGION": "Республика Татарстан",
+      "KCOPERATOR": "(843) 533-70-61",
+      "SITEOPERATOR": "http://kazanmetro.ru/",
+      "OPERATOR": "МУП \"Метроэлектротранс\" г.Казани",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "34",
+      "city": "Казань (Электрички)",
+      "REGION": "Республика Татарстан",
+      "KCOPERATOR": "8 800 550 53 93",
+      "SITEOPERATOR": "https://sodruzhestvoppk.ru/",
+      "OPERATOR": "АО «Содружество»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "35",
+      "city": "Кемерово",
+      "REGION": "Кемеровская область",
+      "KCOPERATOR": "+7 (3842) 57-46-57",
+      "SITEOPERATOR": "http://уезту.рф/",
+      "OPERATOR": "МУП УЕЗТУ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "36",
+      "city": "Новокузнецк",
+      "REGION": "Кемеровская область",
+      "KCOPERATOR": "+7 (3842) 57-46-57",
+      "SITEOPERATOR": "http://уезту.рф/",
+      "OPERATOR": "МУП УЕЗТУ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "37",
+      "city": "Прокопьевск",
+      "REGION": "Кемеровская область",
+      "KCOPERATOR": "+7 (3842) 57-46-57",
+      "SITEOPERATOR": "http://уезту.рф/",
+      "OPERATOR": "МУП УЕЗТУ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "38",
+      "city": "Киселевск",
+      "REGION": "Кемеровская область",
+      "KCOPERATOR": "+7 (3842) 57-46-57",
+      "SITEOPERATOR": "http://уезту.рф/",
+      "OPERATOR": "МУП УЕЗТУ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "39",
+      "city": "Рязань",
+      "REGION": "Рязанская область",
+      "KCOPERATOR": "8 800 250 02 62",
+      "SITEOPERATOR": "https://картаумка.рф/",
+      "OPERATOR": "ООО Ресурсы Партнеров Рязань",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "40",
+      "city": "Волгоград",
+      "REGION": "Волгоградская область",
+      "KCOPERATOR": "+7 (8442) 96-22-77",
+      "SITEOPERATOR": "https://vlg-tk.ru/",
+      "OPERATOR": "МКП Городской центр управления пассажирскими перевозками",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "41",
+      "city": "Новосибирск",
+      "REGION": "Новосибирская область",
+      "KCOPERATOR": "+7 (383) 228-23-16",
+      "SITEOPERATOR": "https://ptsmup.ru/",
+      "OPERATOR": "МУП Пассажиртрансснаб",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "42",
+      "city": "Тула",
+      "REGION": "Тульская область",
+      "KCOPERATOR": "+7(4872) 705-507",
+      "SITEOPERATOR": "http://oeirc.ru/",
+      "OPERATOR": "АО Областной Единый Информационно-Расчетный Центр",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "43",
+      "city": "Сыктывкар",
+      "REGION": "Республика Коми",
+      "KCOPERATOR": "8 (8212) 21-05-04",
+      "SITEOPERATOR": "https://komiavtotrans.ru/",
+      "OPERATOR": "АО САТП№1 (Комиавтотранс)",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "43",
+      "city": "Сыктывкар",
+      "REGION": "Республика Коми",
+      "KCOPERATOR": "89085977000",
+      "SITEOPERATOR": "https://proezd11.ru/",
+      "OPERATOR": "ООО ОТС",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "44",
+      "city": "Ухта",
+      "REGION": "Республика Коми",
+      "KCOPERATOR": "8(8216) 70-14-14",
+      "SITEOPERATOR": "https://uatp11.ru/card/",
+      "OPERATOR": "Ухтинское автотранспортное предприятие (ИП Гайдуков)",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "45",
+      "city": "Тамбов",
+      "REGION": "Тамбовская область",
+      "KCOPERATOR": "8-(800)-301-0444",
+      "SITEOPERATOR": "https://tpaysystem.ru/",
+      "OPERATOR": "ООО \"Оператор транспортных систем\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "46",
+      "city": "Барнаул",
+      "REGION": "Алтайский край",
+      "KCOPERATOR": "8 (3852) 55-72-70",
+      "SITEOPERATOR": "https://tk-barn.ru/",
+      "OPERATOR": "МУП Центртранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "47",
+      "city": "Великий Новгород",
+      "REGION": "Новгородская область",
+      "KCOPERATOR": "8-800-250-92-55",
+      "SITEOPERATOR": "https://transport.nov.ru/",
+      "OPERATOR": "ГКУ Центральная диспетчерская служба",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "48",
+      "city": "Нефтекамск",
+      "REGION": "Республика Башкортостан",
+      "KCOPERATOR": "+7 (347) 276-91-69",
+      "SITEOPERATOR": "https://brsc.ru/",
+      "OPERATOR": "АО \"Башктрский регистр социальных карт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "49",
+      "city": "Салават",
+      "REGION": "Республика Башкортостан",
+      "KCOPERATOR": "+7 (347) 276-91-69",
+      "SITEOPERATOR": "https://brsc.ru/",
+      "OPERATOR": "АО \"Башктрский регистр социальных карт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "50",
+      "city": "Уфа",
+      "REGION": "Республика Башкортостан",
+      "KCOPERATOR": "+7 (347) 276-91-69",
+      "SITEOPERATOR": "https://brsc.ru/",
+      "OPERATOR": "АО \"Башктрский регистр социальных карт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "51",
+      "city": "Благовещенск",
+      "REGION": "Амурская область",
+      "KCOPERATOR": "8(914)538-06-04",
+      "SITEOPERATOR": "http://tk-gps.ru/",
+      "OPERATOR": "ООО \"ГПС\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "52",
+      "city": "Ульяновск",
+      "REGION": "Ульяновская область",
+      "KCOPERATOR": "(8422) 27-29-27",
+      "SITEOPERATOR": "https://www.eltrans73.ru/",
+      "OPERATOR": "ООО ЭЛТРАНС",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "53",
+      "city": "Пермь",
+      "REGION": "Пермский край",
+      "KCOPERATOR": "8-342-250-25-50",
+      "SITEOPERATOR": "http://gortransperm.ru",
+      "OPERATOR": "МКУ \"ГорТранс\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "54",
+      "city": "Сургут",
+      "REGION": "Ханты-Мансийский автономный округ - Югра",
+      "KCOPERATOR": "7(3462)91-31-19",
+      "SITEOPERATOR": "http://uitsurgut.ru/",
+      "OPERATOR": "МКУ «Управление информационных технологий и связи г. Сургута»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "55",
+      "city": "Южно-Сахалинск",
+      "REGION": "Сахалинская область",
+      "KCOPERATOR": "+7 (4242) 22–09–39",
+      "SITEOPERATOR": "http://mupgiac.ru/",
+      "OPERATOR": "МУП \"Городской Информационно-Аналитический Центр\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "56",
+      "city": "Бийск",
+      "REGION": "Алтайский край",
+      "KCOPERATOR": "+7 (3854) 55-55-72",
+      "SITEOPERATOR": "https://ooonord.ru/",
+      "OPERATOR": "ООО НОРД",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "57",
+      "city": "Мурманск",
+      "REGION": "Мурманская область",
+      "KCOPERATOR": "8-800-200-600-5",
+      "SITEOPERATOR": "https://карта51.рф/",
+      "OPERATOR": "ОАО \"Кольский геологический информационно-лабораторный центр\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "58",
+      "city": "Иркутск",
+      "REGION": "Иркутская область",
+      "KCOPERATOR": "8 (3955) 52-27-87",
+      "SITEOPERATOR": "http://karta38.ru/",
+      "OPERATOR": "ООО \"Соцсистема\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "59",
+      "city": "Саранск",
+      "REGION": "Республика Мордовия",
+      "KCOPERATOR": "8 8342 24 24 71",
+      "SITEOPERATOR": "https://eskrm.ru/",
+      "OPERATOR": "ООО Единая социальная карта РМ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "59",
+      "city": "Саранск",
+      "REGION": "Республика Мордовия",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/#main__slider",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "60",
+      "city": "Улан-Удэ",
+      "REGION": "Республика Бурятия",
+      "KCOPERATOR": "89085977000",
+      "SITEOPERATOR": "https://proezd03.ru/",
+      "OPERATOR": "ООО \"ОТС\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "61",
+      "city": "Оренбург",
+      "REGION": "Оренбург",
+      "KCOPERATOR": " (3532) 92-25-90",
+      "SITEOPERATOR": "http://орэк.рф",
+      "OPERATOR": "АО Оренбургская региональная электронная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "62",
+      "city": "Владимир",
+      "REGION": "Владимирская область",
+      "KCOPERATOR": "(4922) 77-97-53, 8 800 700-44-94",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Владикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "63",
+      "city": "Петропавловск-Камчатский",
+      "REGION": "Камчатский край",
+      "KCOPERATOR": "+7 963 830 09 04",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "ООО \"Электронный мир\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "64",
+      "city": "Псков",
+      "REGION": "Псковская область",
+      "KCOPERATOR": "8(800) 250-90-65",
+      "SITEOPERATOR": "https://www.pskovbus.ru/",
+      "OPERATOR": "ГППО Псковпассажиравтотранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "65",
+      "city": "Чита",
+      "REGION": "Забайкальский край",
+      "KCOPERATOR": "+7 (3022) 41 91 02",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "Муниципальное предприятие «Троллейбусное управление»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "66",
+      "city": "Воронеж",
+      "REGION": "Воронежская область",
+      "KCOPERATOR": "8 (473) 263-77-66",
+      "SITEOPERATOR": "https://vptrans.ru/",
+      "OPERATOR": "Воронежпассажиртранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "67",
+      "city": "Курган",
+      "REGION": "Курганская область",
+      "KCOPERATOR": "7 (3522) 55-15-90",
+      "SITEOPERATOR": "http://lkart45.ru/",
+      "OPERATOR": " ООО \"Элкарт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "68",
+      "city": "Череповец",
+      "REGION": "Вологодская область",
+      "KCOPERATOR": "54-60-75, 54-28-50",
+      "SITEOPERATOR": "https://cher-tram.ru/",
+      "OPERATOR": "МУП Электротранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "69",
+      "city": "Сочи",
+      "REGION": "Краснодарский край",
+      "KCOPERATOR": "+7 (862) 555-25-32",
+      "SITEOPERATOR": "https://www.sochi-tk.ru/",
+      "OPERATOR": "ООО Дарапти",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "70",
+      "city": "Брянск",
+      "REGION": "Брянская область",
+      "KCOPERATOR": "8 800 222 33 50",
+      "SITEOPERATOR": "http://bryansk-ric.ru/",
+      "OPERATOR": "АО Региональный информационный центр",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "71",
+      "city": "Смоленск",
+      "REGION": "Смоленская область",
+      "KCOPERATOR": "8 800 500 76 31",
+      "SITEOPERATOR": "https://t-karta67.ru/",
+      "OPERATOR": "ООО ЦЕНТР ИНВЕСТИЦИОННЫХ ПРОГРАММ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "72",
+      "city": "Красноярск",
+      "REGION": "Красноярский край",
+      "KCOPERATOR": "8‒800‒333‒05‒50",
+      "SITEOPERATOR": "https://www.krasinform.ru/",
+      "OPERATOR": "ГК КК Красноярскавтотранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "73",
+      "city": "Горно-Алтайск",
+      "REGION": "Республика Алтай",
+      "KCOPERATOR": "8-(388-22)-4-91-86",
+      "SITEOPERATOR": "http://soyuz04.ru/",
+      "OPERATOR": "РО ГОРНО-АЛТАЙСКИЙ ГОРОДСКОЙ СОЮЗ ИНДИВИДУАЛЬНЫХ АВТОПРЕДПРИНИМАТЕЛЕЙ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "74",
+      "city": "Петрозаводск",
+      "REGION": "Республика Карелия",
+      "KCOPERATOR": " 8 (8142) 59-22-0",
+      "SITEOPERATOR": "http://karel-tk.ru/",
+      "OPERATOR": "Отстутствует",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "75",
+      "city": "Нижневартовск",
+      "REGION": "Ханты-Мансийский автономный округ - Югра",
+      "KCOPERATOR": "8(3466)27-42-44",
+      "SITEOPERATOR": "http://otn-nv.ru/",
+      "OPERATOR": "ПАТП",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "76",
+      "city": "Йошкар-Ола",
+      "REGION": "Республика Марий Эл",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/#main__slider",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "77",
+      "city": "Тверь",
+      "REGION": "Тверская область",
+      "KCOPERATOR": "8 800 350 00 99",
+      "SITEOPERATOR": "https://tvercard.ru/",
+      "OPERATOR": "ООО Транспортверхневолжья",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "78",
+      "city": "Владивосток",
+      "REGION": "Приморский край",
+      "KCOPERATOR": "7 (423) 243-82-94",
+      "SITEOPERATOR": "https://t-karta.ru/vladivostok",
+      "OPERATOR": "МКУ \"АВТОМАТИЗИРОВАННЫЙ ДИСПЕТЧЕРСКИЙ ЦЕНТР\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "79",
+      "city": "Магадан",
+      "REGION": "Магаданская область",
+      "KCOPERATOR": "+7-914-037-38-64​​​​​",
+      "SITEOPERATOR": "https://t-karta.ru/magadan",
+      "OPERATOR": "ООО \"Оператор\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "80",
+      "city": "Архангельск",
+      "REGION": "Архангельская область",
+      "KCOPERATOR": "8 (8182) 47-08-07",
+      "SITEOPERATOR": "http://etk29.ru/",
+      "OPERATOR": "ООО Автолайн",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "81",
+      "city": "Калуга",
+      "REGION": "Калужская область",
+      "KCOPERATOR": "8 800 500 76 31",
+      "SITEOPERATOR": "https://t-karta40.ru/",
+      "OPERATOR": "ООО Центр Информационной поддержки",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "82",
+      "city": "Челябинск",
+      "REGION": "Челябинская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения/ООО Такси сервис",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "83",
+      "city": "Миасс",
+      "REGION": "Челябинская область",
+      "KCOPERATOR": "+7 (3512) 61-47-15",
+      "SITEOPERATOR": "https://trcard.ru/",
+      "OPERATOR": "ООО \"Уралинфотек\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "84",
+      "city": "Златоуст",
+      "REGION": "Челябинская область",
+      "KCOPERATOR": "+7 (3512) 61-47-15",
+      "SITEOPERATOR": "https://trcard.ru/",
+      "OPERATOR": "ООО \"Уралинфотек\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "85",
+      "city": "Ханты-Мансийск",
+      "REGION": "Ханты-Мансийский автономный округ - Югра",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения/АО Ханты-Мансийское АТП",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "86",
+      "city": "Нальчик",
+      "REGION": "Кабардино-Балкарская Республика",
+      "OPERATOR": "ООО Единый информационно-расчетный центр",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "87",
+      "city": "Арзамас",
+      "REGION": "Нижегородская область",
+      "KCOPERATOR": "7-831-250-50-00",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Ситикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "88",
+      "city": "Каменск-Уральский",
+      "REGION": "Свердловская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения/ООО \"Сити-Экспресс\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "89",
+      "city": "Дзержинск",
+      "REGION": "Нижегородская область",
+      "KCOPERATOR": "7-831-250-50-00",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Ситикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "90",
+      "city": "Ставрополь",
+      "REGION": "Ставропольский край",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "91",
+      "city": "Мценск",
+      "REGION": "Орловская область",
+      "KCOPERATOR": "8-800-450-10-27",
+      "SITEOPERATOR": "http://ric-orel.ru/",
+      "OPERATOR": "АКЦИОНЕРНОЕ ОБЩЕСТВО «РЕГИОНАЛЬНЫЙ ИНФОРМАЦИОННЫЙ ЦЕНТР»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "92",
+      "city": "Кызыл",
+      "REGION": "Республика Тыва",
+      "OPERATOR": "МУП  Кызылгортранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "93",
+      "city": "Братск",
+      "REGION": "Иркутская область",
+      "KCOPERATOR": "8 (3955) 52-27-87",
+      "SITEOPERATOR": "http://karta38.ru/",
+      "OPERATOR": "ООО \"Соцсистема\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "94",
+      "city": "Нижний Тагил",
+      "REGION": "Свердловская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения/МУП Тагильский трамвай",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "95",
+      "city": "Новороссийск",
+      "REGION": "Краснодарский край",
+      "KCOPERATOR": "+7 (862) 555-25-32",
+      "SITEOPERATOR": "https://www.sochi-tk.ru/",
+      "OPERATOR": "ООО Дарапти",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "96",
+      "city": "Березники",
+      "REGION": "Пермский край",
+      "KCOPERATOR": "8-342-201-29-95",
+      "SITEOPERATOR": "https://ехатьбыстро.рф",
+      "OPERATOR": "ООО \"ЕТК\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "97",
+      "city": "Копейск",
+      "REGION": "Челябинская область",
+      "KCOPERATOR": "+7 (3512) 61-47-15",
+      "SITEOPERATOR": "https://trcard.ru/",
+      "OPERATOR": "ООО \"Уралинфотек\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "98",
+      "city": "Абакан",
+      "REGION": "Республика Хакасия",
+      "OPERATOR": "ООО ТК Хакасия",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "99",
+      "city": "Пятигорск",
+      "REGION": "Ставропольский край",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "100",
+      "city": "Воткинск (Удмуртия)",
+      "REGION": "Удмуртская Республика",
+      "KCOPERATOR": "8-3412-77-62-29",
+      "SITEOPERATOR": "https://www.strizh18.ru/",
+      "OPERATOR": "ООО \"ТРАНСПОРТНЫЕ ИНФОРМАЦИОННЫЕ СИСТЕМЫ\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "101",
+      "city": "Саратов",
+      "REGION": "Саратовская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения/МУП Саратовгорэлектротранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "102",
+      "city": "Норильск",
+      "REGION": "Красноярский край",
+      "KCOPERATOR": "8‒800‒333‒05‒50",
+      "SITEOPERATOR": "https://www.krasinform.ru/",
+      "OPERATOR": "ГК КК Красноярскавтотранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "103",
+      "city": "Владикавказ",
+      "REGION": "Республика Северная Осетия-Алания",
+      "OPERATOR": "АО Автоколонна-1210",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "104",
+      "city": "Железногорск (Курская область)",
+      "REGION": "Курская область",
+      "KCOPERATOR": "8(4712)39-51-52",
+      "SITEOPERATOR": "https://reg-kursk.ru/",
+      "OPERATOR": "ГУП \"Регион-Курск\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "105",
+      "city": "Обнинск",
+      "REGION": "Калужская область",
+      "KCOPERATOR": "8 800 500 76 31",
+      "SITEOPERATOR": "https://t-karta40.ru/",
+      "OPERATOR": "ООО Центр Информационной поддержки",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "106",
+      "city": "Артем",
+      "REGION": "Приморский край",
+      "KCOPERATOR": "7 (423) 243-82-94",
+      "SITEOPERATOR": "https://t-karta.ru/vladivostok",
+      "OPERATOR": "МКУ \"АВТОМАТИЗИРОВАННЫЙ ДИСПЕТЧЕРСКИЙ ЦЕНТР\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "107",
+      "city": "Элиста",
+      "REGION": "Республика Калмыкия",
+      "KCOPERATOR": "+7 (937) 469-80-70",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "МАУ «Элиста ГорТранс»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "108",
+      "city": "Канск",
+      "REGION": "Красноярский край",
+      "KCOPERATOR": "8‒800‒333‒05‒50",
+      "SITEOPERATOR": "https://www.krasinform.ru/",
+      "OPERATOR": "ГК КК Красноярскавтотранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "109",
+      "city": "Сарапул",
+      "REGION": "Удмуртская Республика",
+      "KCOPERATOR": "нет",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "нет",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "110",
+      "city": "Октябрьский (Башкирия)",
+      "REGION": "Республика Башкортостан",
+      "KCOPERATOR": "+7 (347) 276-91-69",
+      "SITEOPERATOR": "https://brsc.ru/",
+      "OPERATOR": "АО \"Башктрский регистр социальных карт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "111",
+      "city": "Стерлитамак",
+      "REGION": "Республика Башкортостан",
+      "KCOPERATOR": "+7 (347) 276-91-69",
+      "SITEOPERATOR": "https://brsc.ru/",
+      "OPERATOR": "АО \"Башктрский регистр социальных карт\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "112",
+      "city": "Сызрань",
+      "REGION": "Самарская область",
+      "KCOPERATOR": "8- 800-700-74-99",
+      "SITEOPERATOR": "https://s-otk.ru/",
+      "OPERATOR": "ООО Объединенная транспортная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "113",
+      "city": "Волгодонск",
+      "REGION": "Ростовская область",
+      "KCOPERATOR": "7-863-285-09-00",
+      "SITEOPERATOR": "https://arps.pro/",
+      "OPERATOR": "ООО \"Агентство развития платежных систем\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "114",
+      "city": "Ковров",
+      "REGION": "Владимирская область",
+      "KCOPERATOR": "(4922) 77-97-53, 8 800 700-44-94",
+      "SITEOPERATOR": "https://siticard.ru/",
+      "OPERATOR": "ООО Владикард",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "114",
+      "city": "Ковров",
+      "REGION": "Владимирская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/#main__slider",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "115",
+      "city": "Рыбинск",
+      "REGION": "Ярославская область",
+      "KCOPERATOR": "8 800 250 76 20",
+      "SITEOPERATOR": "https://www.yarobltrans.ru/",
+      "OPERATOR": "ГБУ ЯО «Яроблтранском»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "116",
+      "city": "Махачкала",
+      "REGION": "Республика Дагестан",
+      "KCOPERATOR": "8(800)500-39-06",
+      "SITEOPERATOR": "https://socialsystems.ru",
+      "OPERATOR": "ООО Социальные Сиситемы",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "117",
+      "city": "Курск",
+      "REGION": "Курская область",
+      "KCOPERATOR": "8(4712)39-51-52",
+      "SITEOPERATOR": "https://reg-kursk.ru/",
+      "OPERATOR": "ГУП \"Регион-Курск\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "118",
+      "city": "Калининград",
+      "REGION": "Калининградская область",
+      "KCOPERATOR": "8-4012-31-20-30",
+      "SITEOPERATOR": "https://volna39.ru/",
+      "OPERATOR": "МКУ «Центр организации движения и пассажирских перевозок» ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "119",
+      "city": "Иваново",
+      "REGION": "Ивановская область",
+      "KCOPERATOR": "8 800 222 24 08",
+      "SITEOPERATOR": "http://ric-ivanovo.ru",
+      "OPERATOR": "АО Региональный информационный центр",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "120",
+      "city": "Вологда",
+      "REGION": "Вологодская область",
+      "KCOPERATOR": "8 (8172) 27-29-60",
+      "SITEOPERATOR": "https://www.mupatp1.ru/",
+      "OPERATOR": "ООО Пассажирское автотранспортное предприятие №1",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "121",
+      "city": "Кострома",
+      "REGION": "Костромская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "122",
+      "city": "Орск",
+      "REGION": "Оренбургская область",
+      "KCOPERATOR": "(3532) 92-25-90 ",
+      "SITEOPERATOR": "http://орэк.рф",
+      "OPERATOR": "АО Оренбургская региональная электронная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "123",
+      "city": "Ангарск",
+      "REGION": "Иркутская область",
+      "KCOPERATOR": "8 (3955) 52-27-87",
+      "SITEOPERATOR": "http://karta38.ru/",
+      "OPERATOR": "ООО \"Соцсистема\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "124",
+      "city": "Рубцовск",
+      "REGION": "Алтайский край",
+      "KCOPERATOR": "8 (3852) 55-72-70",
+      "SITEOPERATOR": "https://tk-barn.ru/",
+      "OPERATOR": "МУП Центртранс",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "125",
+      "city": "Новомосковск",
+      "REGION": "Тульская область",
+      "KCOPERATOR": "+7(4872) 705-507",
+      "SITEOPERATOR": "http://oeirc.ru/",
+      "OPERATOR": "АО Областной Единый Информационно-Расчетный Центр",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "126",
+      "city": "Черкесск",
+      "REGION": "Карачаево-Черкесская Республика",
+      "OPERATOR": "МУП \"ЕДИНАЯ ДИСПЕТЧЕРСКАЯ СЛУБЖА\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "127",
+      "city": "Назрань",
+      "REGION": "Республика Ингушетия",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "128",
+      "city": "Бердск",
+      "REGION": "Новосибирская область",
+      "KCOPERATOR": "+7 (383) 228-23-16",
+      "SITEOPERATOR": "https://ptsmup.ru/",
+      "OPERATOR": "МУП Пассажиртрансснаб",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "129",
+      "city": "Тобольск",
+      "REGION": "Тюменская область",
+      "KCOPERATOR": "нет",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "нет",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "130",
+      "city": "Северодвинск",
+      "REGION": "Архангельская область",
+      "KCOPERATOR": "8 (8182) 47-08-07",
+      "SITEOPERATOR": "http://etk29.ru/",
+      "OPERATOR": "ООО Автолайн",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "131",
+      "city": "Старый Оскол",
+      "REGION": "Белгородская область",
+      "KCOPERATOR": "нет",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "нет",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "132",
+      "city": "Биробиджан",
+      "REGION": "Еврейская автономная область",
+      "KCOPERATOR": "7 (42622) 4-03-80",
+      "SITEOPERATOR": "https://t-karta.ru/birobidzhan",
+      "OPERATOR": "Областное государственное бюджетное учреждение «Многофункциональный центр предоставления государственных и муниципальных услуг в Еврейской автономной области» ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "133",
+      "city": "Кисловодск",
+      "REGION": "Ставропольский край",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "134",
+      "city": "Ессентуки",
+      "REGION": "Ставропольский край",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "135",
+      "city": "Липецк",
+      "REGION": "Липецкая область",
+      "KCOPERATOR": "8 800 200 90 55 (доб. 2)",
+      "SITEOPERATOR": "https://asuop48.ru/",
+      "OPERATOR": "ООО «ОПЕРАТОР ТРАНСПОРТНЫХ СИСТЕМ ЛИПЕЦК»",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "136",
+      "city": "Новочеркасск",
+      "REGION": "Ростовская область",
+      "KCOPERATOR": "7-863-285-09-00",
+      "SITEOPERATOR": "https://arps.pro/",
+      "OPERATOR": "ООО \"Агентство развития платежных систем\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "137",
+      "city": "Майкоп",
+      "REGION": "Адыгея Республика",
+      "KCOPERATOR": "+7(861)274-07-47",
+      "SITEOPERATOR": "https://tk-pay.ru",
+      "OPERATOR": "ЧасПик",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "138",
+      "city": "Невинномыск",
+      "REGION": "Ставропольский край",
+      "KCOPERATOR": "8-800-100-77-90",
+      "SITEOPERATOR": "https://strelkacard.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "139",
+      "city": "Балаково",
+      "REGION": "Саратовская область",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "140",
+      "city": "Грозный",
+      "REGION": "Чеченская Республика",
+      "KCOPERATOR": "8 800 100 37 87",
+      "SITEOPERATOR": "https://www.ao-rr.ru/",
+      "OPERATOR": "АО Расчётные Решения",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "141",
+      "city": "Новокуйбышевск",
+      "REGION": "Самарская область",
+      "KCOPERATOR": "8- 800-700-74-99",
+      "SITEOPERATOR": "https://s-otk.ru/",
+      "OPERATOR": "ООО Объединенная транспортная карта",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "142",
+      "city": "Елец",
+      "REGION": "Липецкая область",
+      "KCOPERATOR": "нет",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "нет",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "143",
+      "city": "Первоуральск",
+      "REGION": "Свердловская область",
+      "KCOPERATOR": "нет",
+      "SITEOPERATOR": "нет",
+      "OPERATOR": "нет",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "144",
+      "city": "Каспийск",
+      "REGION": "Республика Дагестан",
+      "KCOPERATOR": "8(800)500-39-06",
+      "SITEOPERATOR": "https://socialsystems.ru",
+      "OPERATOR": "ООО Социальные Сиситемы",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "145",
+      "city": "Новый Уренгой",
+      "REGION": "Ямало-Ненецкий автономный округ",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "146",
+      "city": "Батайск",
+      "REGION": "Ростовская область",
+      "KCOPERATOR": "7-863-285-09-00",
+      "SITEOPERATOR": "https://arps.pro/",
+      "OPERATOR": "ООО \"Агентство развития платежных систем\"",
+      "ACQUIRER": "Сбербанк"
+    },
+    {
+      "CITYNUMBER": "147",
+      "city": "Таганрог",
+      "REGION": "Ростовская область",
+      "KCOPERATOR": "7-863-285-09-00",
+      "SITEOPERATOR": "https://arps.pro/",
+      "OPERATOR": "ООО \"Агентство развития платежных систем\"",
+      "ACQUIRER": "Сбербанк"
+    }
+  ]
